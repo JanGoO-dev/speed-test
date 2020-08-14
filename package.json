@@ -2,7 +2,7 @@
   "name": "speed-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JanGoO-dev.github.io/speed-test",
+  "homepage": "https://JanGoO-dev.github.io/speedtest",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
